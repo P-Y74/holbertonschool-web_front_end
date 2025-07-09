@@ -76,17 +76,17 @@ a:active {
     color: var(--color-primary);
 }
 
-.card-service .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
-.card-service a {
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-.card-service a:hover {
+.card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
