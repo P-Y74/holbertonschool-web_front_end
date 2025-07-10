@@ -171,14 +171,13 @@ a:active {
     position: relative;
 }
 
-.card-work .card-title a, .card-work a {
+.card-work .card-title a {
     display: block;
     text-decoration: none;
     padding-top: 45%;
 }
 
-a.card-title::after,
-a.card-work::after {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
